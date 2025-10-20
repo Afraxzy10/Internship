@@ -5,6 +5,7 @@ Task 1: Data Cleaning and Preprocessing
 This task focuses on cleaning and preparing the Netflix Movies and TV Shows dataset for analysis. The steps follow standard data preprocessing methods using Python (with Pandas).
 
 Objective
+
 Remove missing and duplicate values
 
 Standardize formats (text, dates, etc.)
@@ -12,6 +13,7 @@ Standardize formats (text, dates, etc.)
 Ensure column names and data types are correct
 
 Dataset Columns
+
 show_id
 
 type
@@ -37,6 +39,7 @@ listed_in
 description
 
 Steps Performed
+
 Identified and handled missing values
 
 Removed duplicate rows
@@ -50,4 +53,5 @@ Renamed columns (lowercase, underscores)
 Checked and fixed data types
 
 Files
+
 netflix_titles.csv — Raw input dataset
